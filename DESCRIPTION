@@ -1,0 +1,11 @@
+Package: funalgorithmextra
+Type: Package
+Title: Fundamental Algorithm with some Extra Features
+Version: 1.0
+Date: 2024-03-12
+Author: Kristina Grolmusova
+Maintainer: Kristina Grolmusova <kristina.grolmusova1@lancaster.ac.uk>
+Description: The package takes in two preference tables as dataframes or named lists in R and outputs a stable matching given the preference tables as named list. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp
